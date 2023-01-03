@@ -8,4 +8,5 @@ func main() {
 	fmt.Println("hello golang v2")
 	fmt.Println("bugfix")
 	fmt.Println("11111111111")
+	fmt.Println("new bug fix")
 }
